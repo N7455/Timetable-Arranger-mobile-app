@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62656081424",
+    "project_id": "timetablearranger",
+    "storage_bucket": "timetablearranger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62656081424:android:b429010f73bb4fa635e495",
+        "android_client_info": {
+          "package_name": "com.example.timetable_arranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7_EH1dA60KRGzgo-BSy09-Qjdb09tDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
